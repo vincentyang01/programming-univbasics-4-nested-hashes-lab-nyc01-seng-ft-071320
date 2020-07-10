@@ -82,8 +82,7 @@ def adding_matz
         :languages => ["C"]
       }
     }
-    alans_new_info = "GUI"
-    programmer_hash[:alan_kay][:known_for] = alans_new_info
+    
     
 end
 
