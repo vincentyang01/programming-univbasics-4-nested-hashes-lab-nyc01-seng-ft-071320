@@ -82,6 +82,8 @@ def adding_matz
         :languages => ["C"]
       }
     }
+    alans_new_info = "GUI"
+
 programmer_hash.merge(:yukihiro_matsumoto => {:known_for => "Ruby", :languages => ["LISP", "C"]})
 end
 
